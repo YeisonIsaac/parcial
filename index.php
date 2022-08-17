@@ -7,7 +7,7 @@
 <body>
 	<h1>Pruebas de GitHub</h1>
 	<form method="post" action="nuevaPersona.php">
-		<label for="nombre">Nombre:</label>
+		<label for="nombre">Escriba Su Nombre:</label>
 		<br>
 		<input name="nombre" required type="text" id="nombre" placeholder="Escribe tu nombre...">
 		<br><br>
