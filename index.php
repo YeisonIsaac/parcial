@@ -23,5 +23,6 @@
 		</select>
 		<br><br><input type="submit" value="Registrar">
 	</form>
+	<h2>Gracias</h2>
 </body>
 </html>
