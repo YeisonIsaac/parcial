@@ -1,0 +1,20 @@
+<?php
+$contraseña = "";
+$usuario = "root";
+$nombre_base_de_datos = "pruebas";
+try{
+	$base_de_datos = new PDO('mysql:host=localhost;dbname=' . $nombre_base_de_datos, $usuario, $contraseña);
+}catch(Exception $e){
+	echo "Ocurrió algo con la base de datos: " . $e->getMessage();
+}
+
+$nombre= $_POST['nombre'];
+$apellido= $_POST['apellido'];
+$genero = $_POST['genero']
+
+//
+
+$sql="INSERT INTO personas VALUES('$nombre', '$apellido', '$genero')";
+
+
+?>
