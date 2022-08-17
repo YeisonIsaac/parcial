@@ -11,7 +11,7 @@
 		<br>
 		<input name="nombre" required type="text" id="nombre" placeholder="Escribe tu nombre...">
 		<br><br>
-		<label for="apellidos">Apellidos:</label>
+		<label for="apellidos">Escrbia su apellido:</label>
 		<br>
 		<input name="apellidos" required type="text" id="apellidos" placeholder="Escribe tus apellidos...">
 		<br><br>
