@@ -18,8 +18,8 @@
 		<label for="sexo">Género</label>
 		<select name="sexo" required name="sexo" id="sexo">
 			<option value="">--Selecciona--</option>
-			<option value="M">Masculino</option>
-			<option value="F">Femenino</option>
+			<option value="M">Masculino MS</option>
+			<option value="F">Femenino FM</option>
 		</select>
 		<br><br><input type="submit" value="Registrar">
 	</form>
