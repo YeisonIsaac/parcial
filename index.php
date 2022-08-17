@@ -5,6 +5,7 @@
 	<title>Registrar persona</title>
 </head>
 <body>
+	<h1>Pruebas de GitHub</h1>
 	<form method="post" action="nuevaPersona.php">
 		<label for="nombre">Nombre:</label>
 		<br>
